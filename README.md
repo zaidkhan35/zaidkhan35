@@ -1,16 +1,57 @@
 ## Hi there 👋
 
-<!--
-**zaidkhan35/zaidkhan35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Zaid Khan
 
-Here are some ideas to get you started:
+🎓 4th Semester Student | 🤖 Aspiring AI/ML  | ⚡ FastAPI Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+🚀 About
+
+Building projects in AI, ML, and Data Analysis
+
+Working with Python, Pandas, NumPy, all Ml algorithms, FastAPI
+
+Interested in Machine Learning anda Data analysis
+
+
+
+---
+
+🛠️ Skills
+
+Languages: Python, C++, SQL
+
+Data/ML: Pandas, NumPy, Matplotlib, Scikit-learn
+
+Backend: FastAPI, REST APIs
+
+
+
+---
+
+📂 Projects
+
+Image Classifier — Predicts objects (animals, humans, etc.)
+
+Data Analysis — Cleaning + visualization using Pandas
+Email generator chatbot
+
+ML API — Deployed model with FastAPI
+
+
+
+---
+
+📫 Contact
+
+GitHub: https://github.com/yourusername
+
+LinkedIn: https://linkedin.com/in/yourprofile
+
+
+
+---
+
+✨ Building real-world AI projects 🚀
