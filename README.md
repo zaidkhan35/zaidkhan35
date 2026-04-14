@@ -36,6 +36,11 @@ Backend: FastAPI, REST APIs
 Image Classifier — Predicts objects (animals, humans, etc.)
 
 Data Analysis — Cleaning + visualization using Pandas
+
+Diebatic patient prediction
+
+Email spam prediction
+
 Email generator chatbot
 
 ML API — Deployed model with FastAPI
