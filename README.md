@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Zaid Khan
 
-🎓 4th Semester Student | 🤖 Aspiring AI/ML  | ⚡ FastAPI Backend Developer
+🎓 4th Semester Student | 🤖 Aspiring AI/ML  | Data science
 
 
 ---
@@ -11,7 +11,7 @@
 
 Building projects in AI, ML, and Data Analysis
 
-Working with Python, Pandas, NumPy, all Ml algorithms, FastAPI
+Working with Python, Pandas, NumPy, all Ml algorithms,Computer vision and  FastAPI
 
 Interested in Machine Learning anda Data analysis
 
@@ -24,6 +24,7 @@ Interested in Machine Learning anda Data analysis
 Languages: Python, C++, SQL
 
 Data/ML: Pandas, NumPy, Matplotlib, Scikit-learn
+computer vision : YOLOv8
 
 Backend: FastAPI, REST APIs
 
